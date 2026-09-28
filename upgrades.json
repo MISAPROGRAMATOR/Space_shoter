@@ -1,0 +1,17 @@
+{
+  "1": { "type": "laser", "count": 1, "cost": 15, "radius": 0, "color": [0, 255, 255], "speed": 14 },
+  "2": { "type": "laser", "count": 2, "cost": 167, "radius": 0, "color": [0, 255, 255], "speed": 14 },
+  "3": { "type": "laser", "count": 3, "cost": 320, "radius": 0, "color": [0, 255, 255], "speed": 14 },
+  "4": { "type": "explosive", "count": 1, "cost": 472, "radius": 90, "color": [255, 140, 0], "speed": 11 },
+  "5": { "type": "missile", "count": 2, "cost": 625, "radius": 80, "color": [255, 50, 50], "speed": 8 },
+  "6": { "type": "explosive", "count": 1, "cost": 777, "radius": 160, "color": [255, 80, 0], "speed": 13 },
+  "7": { "type": "laser", "count": 3, "cost": 930, "radius": 0, "color": [180, 0, 255], "speed": 15 },
+  "8": { "type": "laser", "count": 2, "cost": 2082, "radius": 0, "color": [255, 0, 200], "speed": 16 },
+  "9": { "type": "missile", "count": 3, "cost": 2235, "radius": 90, "color": [255, 30, 30], "speed": 9 },
+  "10": { "type": "laser", "count": 1, "cost": 2387, "radius": 0, "color": [0, 200, 255], "speed": 14 },
+  "11": { "type": "explosive", "count": 3, "cost": 3540, "radius": 220, "color": [150, 0, 255], "speed": 12 },
+  "12": { "type": "laser", "count": 5, "cost": 5692, "radius": 0, "color": [0, 255, 255], "speed": 16 },
+  "13": { "type": "nuke", "count": 1, "cost": 6845, "radius": 380, "color": [255, 255, 255], "speed": 8 },
+  "14": { "type": "laser", "count": 9, "cost": 8585, "radius": 0, "color": [255, 255, 0], "speed": 18 },
+  "15": { "type": "nuke", "count": 1, "cost": 0, "radius": 500, "color": [255, 255, 255], "speed": 15 }
+}
