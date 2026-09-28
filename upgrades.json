@@ -1,5 +1,5 @@
 {
-  "1": { "type": "laser", "count": 1, "cost": 15, "radius": 0, "color": [0, 255, 255], "speed": 14 },
+  "1": { "type": "laser", "count": 1, "cost": 45, "radius": 0, "color": [0, 255, 255], "speed": 14 },
   "2": { "type": "laser", "count": 2, "cost": 167, "radius": 0, "color": [0, 255, 255], "speed": 14 },
   "3": { "type": "laser", "count": 3, "cost": 320, "radius": 0, "color": [0, 255, 255], "speed": 14 },
   "4": { "type": "explosive", "count": 1, "cost": 472, "radius": 90, "color": [255, 140, 0], "speed": 11 },
